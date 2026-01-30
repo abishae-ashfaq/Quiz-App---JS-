@@ -1,4 +1,4 @@
-GitHub & JavaScript Quiz App hh
+GitHub & JavaScript Quiz App 
 
 Description:
 A web-based multiple-choice quiz testing users on GitHub and JavaScript. Built with HTML, CSS, JavaScript, and Bootstrap.
