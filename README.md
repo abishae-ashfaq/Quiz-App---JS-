@@ -15,10 +15,10 @@ Submit button shows final score
 
 Responsive design for mobile & desktop
 
-Technologies:
+**Technologies:**
 HTML5 | CSS3 | JavaScript | Bootstrap 5
 
-Extras:
+**Extras:**
 Easily extensible, modular code, and clean, user-friendly interface.
 
 ![Image](https://github.com/user-attachments/assets/aa670ccb-9939-4916-9c9f-80704297d67d)
