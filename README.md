@@ -3,7 +3,7 @@
 Description:
 A web-based multiple-choice quiz testing users on GitHub and JavaScript. Built with HTML, CSS, JavaScript, and Bootstrap.
 
-**Features**
+**Features:**
 
 10 interactive multiple-choice questions
 
